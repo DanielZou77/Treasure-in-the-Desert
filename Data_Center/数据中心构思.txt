@@ -1,0 +1,17 @@
+模块 A：新闻与情绪
+表1：新闻影响关联表 (news_impact)
+News_ID | 股票代码 (Ticker) | 影响方向 (1看涨, 0中立, -1看跌)
+(同一条新闻影响3只股票，这里就存3行)
+
+表2：新闻主表 (news_master)
+News_ID (主键) | 时间 (Timestamp) | 消息概览 (Summary) | 原始新闻内容 (Full_Text)
+
+模块 B：量价与因子
+表3：量价基础表 (price_volume) （固定结构）
+时间 (Timestamp) | 股票代码 (Ticker) | 开盘 | 最高 | 最低 | 收盘 | 成交量
+
+表4：动态因子数值表 (factor_values) （长表，只存数值）
+时间 (Timestamp) | 股票代码 (Ticker) | 因子名称 | 因子数值 (Float浮点数)
+
+表5：因子元数据主表 (factor_master) （记录 AI 的“发明”）
+因子名称 (主键，例如: 'Factor_001') | 因子公式 (LaTeX 格式，存一次即可) | 生成时间 (AI 发明这个因子的时间) | 历史夏普比率 (记录该因子在模拟盘的表现)
