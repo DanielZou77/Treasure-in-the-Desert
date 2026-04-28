@@ -1,14 +1,14 @@
 <div align="center">
 
 # 沙海拾金
-
 ### Treasure in the Desert
+
 
 **在市场的沙海里，寻找真正闪光的信号。**
 
 **Finding signals that still shine in the desert of markets.**
 
-**Author:Daniel Zou**
+Daniel Zou
 
 [中文](#中文) | [English](#english)
 
