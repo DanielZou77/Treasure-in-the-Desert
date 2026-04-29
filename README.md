@@ -1,14 +1,15 @@
 <div align="center">
 
-# [沙海拾金](https://github.com/DanielZou77/Treasure-in-the-Desert/)
-### [Treasure in the Desert](https://github.com/DanielZou77/Treasure-in-the-Desert/)
+# 沙海拾金
+### Treasure in the Desert
 
 
 **在市场的沙海里，寻找真正闪光的信号。**
 
 **Finding signals that still shine in the desert of markets.**
 
-Author: [Daniel Zou](https://github.com/DanielZou77)
+Author: [Daniel Zou](https://github.com/DanielZou77) 
+[Project](https://github.com/DanielZou77/Treasure-in-the-Desert/)
 
 [中文](#中文) | [English](#english)
 
