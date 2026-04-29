@@ -9,6 +9,7 @@
 **Finding signals that still shine in the desert of markets.**
 
 Author: [Daniel Zou](https://github.com/DanielZou77) 
+
 [Project](https://github.com/DanielZou77/Treasure-in-the-Desert/)
 
 [中文](#中文) | [English](#english)
